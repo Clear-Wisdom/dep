@@ -10,7 +10,7 @@ spec:
   type: LoadBalancer
   ports:
   - port: 80
-    targetPort: 5173
+    targetPort: 8085
   selector:
     app: frontend
 ---
