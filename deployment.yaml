@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: seohohwang/python:3
+        image: seohohwang/python:11
