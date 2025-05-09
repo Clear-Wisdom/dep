@@ -30,6 +30,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: 385764924491.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:4
-        ports:
-        - containerPort: 5173
+        image: seohohwang/python:3
